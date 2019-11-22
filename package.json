@@ -1,0 +1,26 @@
+{
+  "name": "browser-support",
+  "version": "1.0.0",
+  "description": "This library helps us detect browser name, versions and more.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kailashw/browser-support.git"
+  },
+  "keywords": [
+    "browser",
+    "browser-name",
+    "browser-support",
+    "browser-version",
+    "javascript"
+  ],
+  "author": "Kailas Walldoddi <kailashwall@gmail.com> (www.kailash.space)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kailashw/browser-support/issues"
+  },
+  "homepage": "https://github.com/Kailashw/browser-support#readme"
+}
